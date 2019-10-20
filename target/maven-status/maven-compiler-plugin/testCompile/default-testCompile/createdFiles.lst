@@ -1,0 +1,9 @@
+hu\test\e2e\pageobjects\NavBar.class
+hu\test\e2e\pageobjects\ProjectPage.class
+hu\test\e2e\pageobjects\WelcomePage.class
+hu\test\e2e\pageobjects\NewChildDialog.class
+hu\test\e2e\pageobjects\WikiPage.class
+hu\test\e2e\Projects.class
+hu\test\e2e\pageobjects\CreateProjectPage.class
+hu\test\e2e\enums\TestUsers.class
+hu\test\e2e\BaseTest.class
